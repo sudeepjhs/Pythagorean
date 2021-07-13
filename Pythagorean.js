@@ -6,7 +6,7 @@ let a = [0, 0, 0]       //Pair [x,y,z]
 
 const n = Number.MAX_SAFE_INTEGER
 
-while (i < 20) {
+while (i < n) {
 
     // If Number i is even 
     //Formula to satisfy x^2+y^2 = z^2
